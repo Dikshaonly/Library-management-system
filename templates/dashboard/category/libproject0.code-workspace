@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "libproject0",
+			"path": "../../.."
+		},
+		{
+			"name": "mediafiles",
+			"path": "../../../../LibProject/django-library-management/mediafiles"
+		}
+	],
+	"settings": {}
+}
